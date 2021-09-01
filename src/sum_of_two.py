@@ -25,7 +25,7 @@ def main():
 
     for array, target, expected in cases:
         output = sum_of_two(array, target)
-        assert output == expected, f"Input: {array} {target} Output: {output}, Expected: {expected}"
+        assert output == expected, f"Input: {array} {target} Output: {output} Expected: {expected}"
 
     print("All tests passed!")
 

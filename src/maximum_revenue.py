@@ -21,7 +21,7 @@ def main():
 
     for stock_costs, expected in cases:
         output = maximum_revenue(stock_costs)
-        assert output == expected, f"Input: {stock_costs} Output: {output}, Expected: {expected}"
+        assert output == expected, f"Input: {stock_costs} Output: {output} Expected: {expected}"
 
     print("All tests passed!")
 

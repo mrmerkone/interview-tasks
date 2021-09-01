@@ -18,7 +18,7 @@ def main():
 
     for number, expected in cases:
         output = reverse_int(number)
-        assert output == expected, f"Input: {number} Output: {output}, Expected: {expected}"
+        assert output == expected, f"Input: {number} Output: {output} Expected: {expected}"
 
     print("All tests passed!")
 
