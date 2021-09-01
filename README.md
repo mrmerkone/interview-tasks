@@ -1,1 +1,1 @@
-"# interview-tasks" 
+# Tasks for interns/junior devs interview
