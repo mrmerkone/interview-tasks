@@ -1,1 +1,1 @@
-# Tasks for interns / junior-devs interview
+# Tasks for interns / junior-devs interview made in TDD style
