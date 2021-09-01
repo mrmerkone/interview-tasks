@@ -1,5 +1,5 @@
 """
-Reverse an input positive integer number without using any type conversion.
+Reverse an input positive integer number using only arithmetic operators.
 """
 
 
